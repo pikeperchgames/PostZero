@@ -6,11 +6,13 @@
       <div class="success">Your subscription request<br> has been sent!</div>
         <fieldset>
         <label class="name">
-            <input type="text" value="Enter Name:">
+            <p>Name: </p></br>
+            <input type="text" placeholder="Enter Name:"></br>
             <span class="error">*This is not a valid name.</span>
         </label>
         <label class="email">
-            <input type="email" value="Enter Email:">
+            <p>Email: </p></br>
+            <input type="email" placeholder="Enter Email:"></br>
             <span class="error">*This is not a valid email address.</span>
         </label>
         <div class="btns"><a href="#" class="button" data-type="submit">Submit</a></div>
