@@ -12,9 +12,9 @@
             </p>
         </label>
         <label class="email">
-            <p>Email: </p><br>
+            <p>Email:<br>
             <input type="email" placeholder="Enter Email:"><br>
-            <span class="error">*This is not a valid email address.</span>
+            <span class="error">*This is not a valid email address.</span></p>
         </label>
         <br><div class="btns"><a href="#" class="button" data-type="submit">Submit</a></div>
         </fieldset>
