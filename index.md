@@ -36,9 +36,9 @@ Boxes and updated particle system are key new features at latest build
 
 ## Download builds
 
-[Latest build](https://postzero.ga/accets/Post_Zero-30.12.20.zip)
+[Latest build](https://postzero.ga/accets/Builds/PostZero.zip)
 
-## Subscribe to our newsletter
+## Subscribe to our newsletter 
 <!-- SubFormScr -->
 <script src="//web.webformscr.com/apps/fc3/build/loader.js" sp-form-id="62f228c7347a02cb854c06ea84e5f4dfa0294926728b208a8d24f2b81eacf519"></script>
 <!-- /SubFormScr -->
