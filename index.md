@@ -31,7 +31,7 @@ PikePerch has been developing P0 for several months now and during this time the
 Boxes and updated particle system are key new features at latest build
 ![Screenshot](https://postzero.ga/accets/arts/29.01.2021/boxes2.webp)
 
-![Screenshot](https://postzero.ga/accets/arts/29.01.2021/gameplay2.webp)
+![Screenshot](https://postzero.ga/accets/arts/29.01.2021/Gameplay2.webp)
 
 
 ## Download builds
