@@ -6,7 +6,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PJ9DT2C');</script>
 <!-- End Google Tag Manager -->
-<title>PostZero - pikeperchgs</title>
+<title>Post Zero - pikeperchgs</title>
 </head></html>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -25,10 +25,10 @@ Bla-bla-bla, bla-bla-bla-bla, bla-bla-bla-bla-bla-bla...
 
 bla-bla... bla-bla-bla-bla-bla-bla...
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804715391741329438/boxes.gif =1280x720)
+![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804715391741329438/boxes.gif){ width="1280" height="720"}
 
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804717461173829652/gameplay.gif =1280x720)
+![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804717461173829652/gameplay.gif){ width="1280" height="720"}
 
 ## Subscribe to our newsletter
 <!-- SubFormScr -->
