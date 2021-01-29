@@ -19,15 +19,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ## Short info about game
 
-### Post Zero - platformer
+### Post Zero - metroidvania with elements of platformer
 
-Bla-bla-bla, bla-bla-bla-bla, bla-bla-bla-bla-bla-bla...
+Post Zero is an open-world metroidvania adventure.
+PikePerch has been developing P0 for several months now and during this time the game has taken on a lot and acquired new mechanics.
 
-bla-bla... bla-bla-bla-bla-bla-bla...
+## About new features
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804715391741329438/boxes.gif)
+### BOXES
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804717461173829652/gameplay.gif)
+Boxes and updated particle system are key new features at latest build
+![Screenshot](https://postzero.ga/accets/arts/29.01.2021/boxes.gif)
+
+![Screenshot](https://postzero.ga/accets/arts/29.01.2021/gameplay.gif)
+
+
+## Download builds
+
+[Latest build](https://postzero.ga/accets/Post_Zero-30.12.20.zip)
 
 ## Subscribe to our newsletter
 <!-- SubFormScr -->
