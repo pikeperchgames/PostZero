@@ -25,10 +25,10 @@ Bla-bla-bla, bla-bla-bla-bla, bla-bla-bla-bla-bla-bla...
 
 bla-bla... bla-bla-bla-bla-bla-bla...
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804715391741329438/boxes.gif)
+![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804715391741329438/boxes.gif =1280x720)
 
 
-![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804717461173829652/gameplay.gif)
+![Screenshot](https://media.discordapp.net/attachments/614202490853785614/804717461173829652/gameplay.gif =1280x720)
 
 ## Subscribe to our newsletter
 <!-- SubFormScr -->
