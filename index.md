@@ -36,7 +36,7 @@ Boxes and updated particle system are key new features at latest build
 
 ## Download builds
 
-[Latest build](https://postzero.ga/accets/Builds/LastBuild/PostZeroLatest(SB).zip)
+[Latest build](https://postzero.ga/accets/Builds/LastBuildPub/PostZeroLatest.zip)
 
 ## Subscribe to our newsletter 
 <!-- SubFormScr -->
