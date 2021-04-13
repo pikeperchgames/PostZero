@@ -7,6 +7,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-PJ9DT2C');</script>
 <!-- End Google Tag Manager -->
 <title>Post Zero - pikeperchgs</title>
+<link rel="stylesheet" type="text/css" href="accets/sys/css/style.scss">
 </head></html>
 <body>
 <!-- Google Tag Manager (noscript) -->
